@@ -4,9 +4,17 @@
 * `sudo apt install ffmpeg`
 * pactl (already installed)
 
+
+## Download 
+* Download the `AppImage` from release page
+ !(Here)[https://github.com/noob-max-ai/pulse-audio-stream/releases/tag/0.6]
+* `chmod +x PulseAudioStream.AppImage`
+* Run using `./PulseAudioStream.AppImage`.
+
+
 ## Use Android as Extended Speakers
 * Install PulseDroid.apk from https://github.com/dront78/PulseDroid
-  or
+  or 
   https://github.com/dront78/PulseDroid/blob/master/bin/PulseDroid.apk
 * Start `./PulseControl.AppImage`. 
 * In `Pulse Audio Server` menu select an output source to capture from and
