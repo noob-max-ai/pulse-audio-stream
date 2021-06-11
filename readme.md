@@ -7,7 +7,7 @@
 
 ## Download 
 * Download the `AppImage` from release page
- !(Here)[https://github.com/noob-max-ai/pulse-audio-stream/releases/tag/0.6]
+ ![Here](https://github.com/noob-max-ai/pulse-audio-stream/releases/tag/0.6)
 * `chmod +x PulseAudioStream.AppImage`
 * Run using `./PulseAudioStream.AppImage`.
 
