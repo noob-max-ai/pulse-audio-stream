@@ -17,7 +17,7 @@
   or 
   https://github.com/dront78/PulseDroid/blob/master/bin/PulseDroid.apk
 * Start `./PulseControl.AppImage`. 
-* In `Pulse Audio Server` menu select an output source to capture from and
+* In `Pulse Audio Server` menu, select an output source to capture from and
   click start. It'll show the ip to connect to.
 * Enter the ip and port in PulseDroid app and hit play.
 * If you can't hear the audio, stop the server and change output source.
