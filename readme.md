@@ -31,8 +31,8 @@
   http://192.168.10.7:8080/audio.opus
   http://<ip address>:<port>/audio.opus
 * Hit `start server` 
-
-
+* Now the mic will be available to all ubuntu apps.
+ 
 ## Special Thanks to
 * MatthiasCoppens/pulseaudio-virtualmic 
 
