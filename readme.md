@@ -40,5 +40,5 @@
 * Ubuntu 20.04
 * Ubuntu 20.04 VM
 * Manjaro 20.1.2
-          21.0.6
- 
+* Manjaro 21.0.6
+* fedora
