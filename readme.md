@@ -39,4 +39,5 @@
 ## Tested on 
 * Ubuntu 20.04
 * Ubuntu 20.04 VM
-
+* Manjaro 20.1.2
+ 
