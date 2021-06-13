@@ -43,4 +43,6 @@
 * Manjaro 21.0.6
 * Arch Linux
 * Raspi OS
+* OpenSuse Leap
+* OpenSuse Tumbleweed
 
