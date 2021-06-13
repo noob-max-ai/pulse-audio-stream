@@ -41,4 +41,6 @@
 * Ubuntu 20.04 VM
 * Manjaro 20.1.2
 * Manjaro 21.0.6
+* Arch Linux
+* Raspi OS
 
