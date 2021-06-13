@@ -46,3 +46,12 @@
 * OpenSuse Leap
 * OpenSuse Tumbleweed
 
+## Running from source
+* `zyppter install python-tk`
+* `python3 main.py`
+ 
+ 
+## Build
+* `zyppter install python-tk`
+* `pip3 install pyinstaller`
+* `pyinstaller --onefile main.py`
