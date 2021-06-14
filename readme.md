@@ -47,7 +47,7 @@
 * OpenSuse Tumbleweed
 
 ## Running from source
-* `zyppter install python-tk`
+* `zypper install python-tk`
 * `python3 main.py`
  
  
