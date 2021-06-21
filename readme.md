@@ -1,4 +1,5 @@
 # Pulse Audio Control Panel
+![](https://img.shields.io/github/v/release/noob-max-ai/pulse-audio-stream)
 
 ## Requirements
 * `sudo apt install ffmpeg`
