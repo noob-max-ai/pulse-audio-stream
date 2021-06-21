@@ -1,6 +1,9 @@
 # Pulse Audio Control Panel
 ![](https://img.shields.io/github/v/release/noob-max-ai/pulse-audio-stream)
 
+## Platforms
+![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ## Requirements
 * `sudo apt install ffmpeg`
 * pactl (already installed)
