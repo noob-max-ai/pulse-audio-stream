@@ -57,6 +57,9 @@
 * Raspi OS
 * OpenSuse Leap
 * OpenSuse Tumbleweed
+* Termux
+* Alpine
+* Cygwin
 
 ## Running from source
 * `zypper install python-tk`
