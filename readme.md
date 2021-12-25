@@ -67,6 +67,6 @@
  
  
 ## Build
-* `zyppter install python-tk`
+* `zypper install python-tk`
 * `pip3 install pyinstaller`
 * `pyinstaller --onefile main.py`
