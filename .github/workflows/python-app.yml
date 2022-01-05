@@ -40,3 +40,8 @@ jobs:
     - name: Test with pytest
       run: |
         # pytest
+        
+    - name: Pacakge
+      run : |
+        pip install pyinstaller
+        pyinstaller --onefile main.py
