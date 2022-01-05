@@ -1,5 +1,5 @@
 # Pulse Audio Control Panel
-![](https://img.shields.io/github/v/release/noob-max-ai/pulse-audio-stream)
+<!---![](https://img.shields.io/github/v/release/noob-max-ai/pulse-audio-stream)-->
 ![](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 ![](https://img.shields.io/github/languages/code-size/noob-max-ai/pulse-audio-stream?style=flat-square)
 
