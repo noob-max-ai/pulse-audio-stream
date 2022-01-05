@@ -45,3 +45,11 @@ jobs:
       run : |
         pip install pyinstaller
         pyinstaller --onefile main.py
+
+
+    - name: Archive production artifacts
+      uses: actions/upload-artifact@v2
+      with:
+        name: dist
+        path: |
+          dist
