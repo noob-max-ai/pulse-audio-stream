@@ -72,3 +72,7 @@
 * `zypper install python-tk`
 * `pip3 install pyinstaller`
 * `pyinstaller --onefile main.py`
+ 
+ 
+ ## Build Artifacts
+ Latest Releases can be obtained from github actions
