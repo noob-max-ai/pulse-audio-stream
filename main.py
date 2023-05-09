@@ -294,8 +294,7 @@ class PulseServer:
         self.ip_label.configure(text=get_ip())
 
 
-if __name__ == '__main__':
+def pastream_gui():
     root = Tk()
-
     my_gui = PulseServer(root)
     root.mainloop()
