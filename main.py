@@ -44,7 +44,7 @@ class PulseServer:
 
 
         ## Frame Management
-        self.tab_control = ttk.Notebook(root)
+        self.tab_control = ttk.Notebook(self.master)
 
         self.pulse_audio_server = ttk.Frame(self.tab_control, style='new.TFrame')
         self.pulse_audio_mic = ttk.Frame(self.tab_control,style='new.TFrame')
