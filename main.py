@@ -295,6 +295,7 @@ class PulseServer:
 
 
 def pastream_gui():
+
     root = Tk()
     my_gui = PulseServer(root)
     root.mainloop()
