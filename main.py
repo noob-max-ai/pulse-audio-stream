@@ -44,7 +44,7 @@ class PulseServer:
 
 
         ## Frame Management
-        self.tab_control = ttk.Notebook(root)
+        self.tab_control = ttk.Notebook(self.master)
 
         self.pulse_audio_server = ttk.Frame(self.tab_control, style='new.TFrame')
         self.pulse_audio_mic = ttk.Frame(self.tab_control,style='new.TFrame')
@@ -294,8 +294,8 @@ class PulseServer:
         self.ip_label.configure(text=get_ip())
 
 
-if __name__ == '__main__':
-    root = Tk()
+def pastream_gui():
 
+    root = Tk()
     my_gui = PulseServer(root)
     root.mainloop()
